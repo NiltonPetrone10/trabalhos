@@ -1,0 +1,12 @@
+códigos da aula
+   # Código de exemplo
+   for i in range(5):
+       print("Número: ", i)
+função triangulo
+   def desenhar_triangulo(num_linhas):
+       for i in range(1, num_linhas + 1):
+           print("*" * i)
+   
+   # Chamada da função para desenhar um triângulo com 5 linhas
+   desenhar_triangulo(5)
+   
