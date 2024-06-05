@@ -1,0 +1,15 @@
+python: Python é uma linguagem de programação de alto nível conhecida por sua sintaxe limpa e legibilidade. É amplamente utilizada em desenvolvimento web, ciência de dados, automação, entre outros.
+   Exemplo de código em Python
+     print("Olá, mundo!")
+java: Java é uma linguagem de programação orientada a objetos amplamente utilizada para desenvolvimento de aplicativos corporativos, aplicativos móveis Android, sistemas embarcados, entre outros.
+     // Exemplo de código em Java
+     public class Hello {
+         public static void main(String[] args) {
+             System.out.println("Olá, mundo!");
+         }
+     }
+     java script: JavaScript é uma linguagem de programação popular para desenvolvimento web, permitindo a criação de interatividade em páginas web. É executada no navegador do cliente.
+     // Exemplo de código em JavaScript
+     console.log("Olá, mundo!");
+     
+     
